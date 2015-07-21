@@ -1,0 +1,24 @@
+{
+  "name": "royschuyler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royschuyler/intronode.git"
+  },
+  "author": "royschuyler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royschuyler/intronode/issues"
+  },
+  "homepage": "https://github.com/royschuyler/intronode#readme",
+  "dependencies": {
+    "csv": "^0.4.5",
+    "prompt": "^0.2.14",
+    "yargs": "^3.15.0"
+  }
+}
